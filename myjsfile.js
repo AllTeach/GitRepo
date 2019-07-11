@@ -7,3 +7,8 @@ function doSomethingElse()
 {
 	alert("testing....yet again");
 }
+
+function tryAgain()
+{
+	var a = "again";
+}
